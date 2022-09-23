@@ -1,4 +1,4 @@
 
 
-dinosaur information [#Working demo](https://dinosaur-info.netlify.app/).
+dinosaur information [Working demo](https://dinosaur-info.netlify.app/).
 
